@@ -1,0 +1,5 @@
+argparse
+openpyxl
+pandas
+openpyxl_image_loader
+colorama
